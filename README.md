@@ -13,28 +13,28 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-* <b>ANDROID Portrait View:<b>
+* <b>ANDROID Portrait View:</b>
 
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/5U4Mna0.jpg" height="175px"/></a>
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/VyRsxtF.jpg" height="175px"/></a>
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/imsW2Mn.jpg" height="175px"/></a><br><br>
 
-* <b>ANDROID Landscape View:<b>
+* <b>ANDROID Landscape View:</b>
 
 <a href="https://imgur.com/a/K1UoihS"><img width="49%" height="auto" src="https://imgur.com/21C5GgI.jpg" height="175px"/></a>
 <a href="https://imgur.com/a/K1UoihS"><img width="49%" height="auto" src="https://imgur.com/oP8aoXt.jpg" height="175px"/></a><br><br>
 
-* <b>IOS Portrait View:<b>
+* <b>IOS Portrait View:</b>
 
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/n05NUVC.jpg" height="175px"/></a>
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/MS0KeO3.jpg" height="175px"/></a>
 <a href="https://imgur.com/a/K1UoihS"><img width="30%" height="auto" src="https://imgur.com/y7JoTNI.jpg" height="175px"/></a><br><br>
 
-- Android phone used - Redmi Note 7
-- IOS device used - iPhone 12 Pro Max(Simulator)
+- Android device used - Redmi Note 7
+- IOS device used - iPhone 12 Pro Max (Simulator)
 
 ## Note
-I am still learning how to develop flutter apps, this project was focused on making the app responsive on portrait and landscape layout, on the same time it's adaptive with a cuppertino based look for IOS devices.<br>
+A fully funtional platform independent personal expense tracking app, this project was focused on making the app responsive on portrait and landscape layout. On the same time it's adaptive with a Cuppertino based look for IOS devices and MaterialApp based look for Android device.<br>
 
 ## Contact
 

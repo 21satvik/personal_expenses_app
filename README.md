@@ -1,4 +1,4 @@
-# personal_expenses_app
+# Personal Expense Tracker
 
 A responsive & adaptive personal expense tracking app made using flutter.
 

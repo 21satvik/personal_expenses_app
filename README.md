@@ -4,7 +4,7 @@ A responsive & adaptive personal expense tracking app made using flutter.
 
 ## Getting Started
 
-This project is a starting point for Personal Expense Tracker App.
+This project is a starting point for Personal Expense Tracker App made by Satvik Kumar.
 
 A few resources to get you started for this Flutter project:
 
@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 * <b>ANDROID Landscape View:<b>
 
 <a href="https://imgur.com/a/K1UoihS"><img width="49%" height="auto" src="https://imgur.com/21C5GgI.jpg" height="175px"/></a>
-<a href="https://imgur.com/a/K1UoihS"><img width="49%" height="auto" src="https://imgur.com/21C5GgI.jpg" height="175px"/></a><br><br>
+<a href="https://imgur.com/a/K1UoihS"><img width="49%" height="auto" src="https://imgur.com/oP8aoXt.jpg" height="175px"/></a><br><br>
 
 * <b>IOS Portrait View:<b>
 
@@ -32,3 +32,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - Android phone used - Redmi Note 7
 - IOS device used - iPhone 12 Pro Max(Simulator)
+
+## Note
+I am still learning how to develop flutter apps, this project was focused on making the app responsive on portrait and landscape layout, on the same time it's adaptive with a cuppertino based look for IOS devices.<br>
+
+## Contact
+
+Satvik Kumar - [@EspersScythe#7834](https://discordapp.com/users/501786443010670593) - satvikkumar2101@gmail.com<br>
+Any and all suggestions are most welcome

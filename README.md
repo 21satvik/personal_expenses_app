@@ -1,4 +1,4 @@
-# personal_expenses_app
+# Personal Expense Tracker
 
 A responsive & adaptive personal expense tracking app made using flutter.
 
@@ -39,4 +39,8 @@ A fully funtional platform independent personal expense tracking app, this proje
 ## Contact
 
 Satvik Kumar - [@EspersScythe#7834](https://discordapp.com/users/501786443010670593) - satvikkumar2101@gmail.com<br>
+<<<<<<< HEAD
 Any and all suggestions are most welcome.
+=======
+Any and all suggestions are most welcome.
+>>>>>>> 637aee2ca07ee4a4fd7681ab3ee304ceaf368903

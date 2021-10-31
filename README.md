@@ -39,4 +39,4 @@ A fully funtional platform independent personal expense tracking app, this proje
 ## Contact
 
 Satvik Kumar - [@EspersScythe#7834](https://discordapp.com/users/501786443010670593) - satvikkumar2101@gmail.com<br>
-Any and all suggestions are most welcome
+Any and all suggestions are most welcome.
